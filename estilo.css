@@ -1,0 +1,31 @@
+*
+body{
+    background-color: cadetblue;
+    text-align: center;
+    border-style: ridge;
+   
+}
+
+select{
+    color: rgb(5, 13, 85);
+    border-width: 02px;
+    padding: 04px;
+    font-size: 20px;
+}
+
+.tema{
+    color: rgb(5, 13, 85);
+}
+
+button{
+    margin: 10px;
+    width: 50px;
+    padding: 4px 2px;
+    border-radius: 3px;
+    border: 1px solid rgb(5, 13, 85);
+}
+
+button:hover{
+    background-color: aquamarine;
+    transition: back;
+}

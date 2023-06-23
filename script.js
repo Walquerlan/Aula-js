@@ -14,17 +14,18 @@ meses.onchange = function(){
 
 //ARRAY COM O NOME DOS MESES
 let nomeDosMeses = [
-    'Janeiro',
-    'Fevereiro',
-    'Março',
-    'Abril',
-    'Maio',
-    'Junho',
-    'Julho',
-    'Setembro',
-    'Outubro',
-    'Novembro',
-    'Dezembro',
+    'Janeiro🎆',
+    'Fevereiro🎉',
+    'Março🌧️',
+    'Abril🐇',
+    'Maio💼',
+    'Junho🌽',
+    'Julho🪁',
+    'Agosto📸',
+    'Setembro📝',
+    'Outubro🎃',
+    'Novembro🍂',
+    'Dezembro🎄',
 ];
 
 //LAÇO QUE INCREMENTA OS MESES
